@@ -459,815 +459,787 @@ Kolejnym jest element ognia, który internalizujemy poprzez słońce czy różne
 Również promieniujemy. Stale promieniujemy. Ludzie są bardzo poinformowani, że jeśli tego elementu ciepła nie ma, to jesteście martwi.
 
 116
-00:14:34,763 --> 00:14:39,520
-Ten element ciepła jest w bardzo interesującym związku z tym, czy
+00:14:34,763 --> 00:14:39,368
+Ten element ciepła ma bardzo interesującą zależność.
 
 117
-00:14:39,521 --> 00:14:46,760
-jesteście blisko ciepłego obiektu, ciepły obiekt
-ciepło nie odróżnia was od otoczenia.
+00:14:39,393 --> 00:14:46,730
+Jeśli jesteście blisko ciepłego obiektu, to ciepły obiekt nie odróżnia was od otoczenia.
 
 118
-00:14:46,761 --> 00:15:00,960
-po prostu idzie tam, gdzie jest chłodniej, więc ciepło promieniuje
-od ciepłego do chłodnego. Tak więc istnieje ciągłe pole
+00:14:46,755 --> 00:14:55,983
+Po prostu rozchodzi się tam gdzie jest chłodniej. Zatem żar promieniuje z ciepłego do chłodnego.
 
 119
-00:15:00,961 --> 00:15:14,640
-ciepła zawsze zmierza do tego, gdzie jest mniej ciepła.
-A powietrze oczywiście jest cechą tego powietrza przez cały czas.
+00:14:56,007 --> 00:15:02,078
+Tak więc istnieje ciągłe pole ciepła.
 
 120
-00:15:14,641 --> 00:15:22,840
-musicie zrobić, to przegapić kilka oddechów i jesteście
-i wrócisz na ziemię. Więc to jest po prostu rodzaj
+00:15:02,103 --> 00:15:10,972
+Zawsze zmierza do tego, gdzie jest mniej ciepła.
 
 121
-00:15:22,841 --> 00:15:29,000
-waszego bezpośredniego doświadczenia jest bardzo związane z
-bez posiadania wyrafinowanych pomysłów na temat elementów
+00:15:10,996 --> 00:15:14,362
+A powietrze oczywiście, cechą powietrza jest...
 
 122
-00:15:29,001 --> 00:15:34,320
-i tak dalej.
-To jest waszym rodzajem bezpośredniego doświadczenia. Powinienem powiedzieć, że
+00:15:14,387 --> 00:15:21,229
+Wszystko co musicie zrobić to przegapić kilka oddechów i wrócicie z powrotem do ziemi.
 
 123
-00:15:34,321 --> 00:15:42,480
-Buddyzm ma bardzo wyrafinowany rodzaj
-fizyki, w której zwykle znajdowaliście to, że
+00:15:21,254 --> 00:15:29,615
+Zatem to jest prosty sposób waszego bezpośredniego doświadczenia, bez potrzeby posiadania wyrafinowanych koncepcji na temat elementów.
 
 124
-00:15:42,481 --> 00:15:49,280
-w tym, co nazywa się Abhidhamma i próbują po prostu
-tak jak robili to Grecy i co robi współczesna nauka
+00:15:29,640 --> 00:15:33,757
+Nie potrzeba niczego więcej. To jest waszym sposobem na bezpośrednie doświadczenia tego.
 
 125
-00:15:49,281 --> 00:15:57,780
-próbują przeanalizować to do najmniejszej możliwej jednostki.
-Rozbierają wszystko na części, biorą
+00:15:33,782 --> 00:15:39,848
+Powinienem powiedzieć, że Buddyzm właściwie ma bardzo wyrafinowany rodzaj fizyki.
 
 126
-00:15:57,781 --> 00:16:04,640
-ciało i umysł aż do jego najmniejszych jednostek w wymiarze fizycznym i w umyśle.
-jednostki w wymiarze fizycznym i mentalnym
+00:15:39,873 --> 00:15:49,004
+Zwykle znajdziemy go w tym co co nazywa się Abhidharma. Próbują tam, tak jak robili to Grecy i co robi współczesna nauka.
 
 127
-00:16:04,641 --> 00:16:10,320
-wymiarze rozbierają wszystko na części, co
-nazwalibyśmy, jak przypuszczam, we współczesnej nauce redukcją
+00:15:49,029 --> 00:15:53,960
+Próbują przeanalizować to do najmniejszej możliwej jednostki.
 
 128
-00:16:10,321 --> 00:16:20,000
-redukcjonizm. Oni też się tym zajmowali, ale to jest
-szczególny rodzaj analizy i dla osoby, która
+00:15:53,984 --> 00:15:57,277
+Rozbierają wszystko na części.
 
 129
-00:16:20,001 --> 00:16:27,280
-jest w pewnym sensie wyrafinowana, intelektualna i
-skłonna w ten sposób, że faktycznie może to być temat
+00:15:57,302 --> 00:16:07,029
+Dzielą ciało i umysł aż do jego najmniejszych jednostek w wymiarze fizycznym i mentalnym. Dzielą wszystko na części.
 
 130
-00:16:27,281 --> 00:16:33,840
-medytacji jest redukcja ciała i na przykład
-na przykład ciała do 32 części lub wszystkich jego możliwych
+00:16:07,054 --> 00:16:12,583
+Nazwalibyśmy to, to jak przypuszczam, zgodnie ze współczesną nauką, redukcjonizmem.
 
 131
-00:16:33,841 --> 00:16:43,320
-elementy. Pomaga to rozpuścić iluzję
-solidnego bytu, jaźni, poczucia istotności
+00:16:12,608 --> 00:16:18,723
+Oni też się tam tym zajęli. Jednakże to jest szczególny rodzaj analizy.
 
 132
-00:16:43,321 --> 00:16:52,280
-Jaźń rozpuszcza to poprzez analizę. Ale w każdym razie w
-centrum miasta przybywają posłańcy i
+00:16:18,748 --> 00:16:29,063
+Dla osoby, która jest w pewnym sensie wyrafinowana, intelektualna i skłonna do czegoś takiego to faktycznie może to być temat do medytacji.
 
 133
-00:16:52,281 --> 00:17:01,520
-informują tę świadomość Króla i co robią
-co oni dają prawdziwy raport o stanie
+00:16:29,088 --> 00:16:35,120
+Ta redukcja ciała, na przykład do 32 części lub do wszystkich możliwych jego elementów.
 
 134
-00:17:01,521 --> 00:17:10,720
-królestwa i to jest to, że wszystko na zewnątrz
-O wielki Królu jest nietrwałe, a nie trwałe.
+00:16:35,145 --> 00:16:48,010
+Pomaga to rozpuścić iluzję solidnego bytu, czy jaźni, czy poczucia istoty, właśnie poprzez tę analizę.
 
 135
-00:17:11,670 --> 00:17:22,920
-niezadowalające nie zadowalające bez substancji
-bez istotnej tożsamości i zamiast tożsamości
+00:16:48,035 --> 00:16:55,973
+W każdym bądź razie, w centrum miasta przybywają posłańcy i informują króla, tę świadomość.
 
 136
-00:17:22,921 --> 00:17:32,840
-i substancji i to jest dokładny raport o
-ich misji. Teraz oznacza to, że świadomość
+00:16:55,998 --> 00:17:01,889
+ i to co robią, to zdają prawdziwy raport o stanie królestwa.
 
 137
-00:17:32,841 --> 00:17:40,200
-ale często świadomość jest opisywana w buddyzmie
-świadomość jest świadomością wzroku, dźwięku
+00:17:01,914 --> 00:17:11,414
+A to jest, że wszystko co na zewnątrz, o wielki królu, jest nietrwałe, a nie, trwałe.
 
 138
-00:17:40,201 --> 00:17:49,200
-zapachu smaku dotyku i aktywności umysłowej z waszym
-umysłu możecie zobaczyć wasz umysł, to dziwna rzecz.
+00:17:11,439 --> 00:17:25,098
+Niezadowalające, a nie, zadowalające. Bez substancji. Bez istotnej tożsamości, a raczej to wszystko jest zamiast tożsamości, zamiast substancji.
 
 139
-00:17:49,925 --> 00:17:59,840
-umysł może zobaczyć siebie w działaniu.
-Więc to po prostu opisuje świadomość jako zwykłe doświadczenie
+00:17:25,123 --> 00:17:31,248
+I to jest dokładny raport, z ich misji.
 
 140
-00:17:59,940 --> 00:18:06,800
-widoki, jakby była tam tylko neutralność, ale to
-King jest w rzeczywistości informowany, więc jest trochę
+00:17:31,273 --> 00:17:39,141
+Zatem oznacza to, że świadomość...  Świadomość często jest opisywana w buddyzmie. Świadomość czego?
 
 141
-00:18:06,801 --> 00:18:14,720
-element mądrości w tej świadomości w
-w tym opisie, w tej przypowieści, która ma
+00:17:39,166 --> 00:17:45,441
+Wzroku, dźwięku, zapachu, smaku, dotyku i aktywności mentalnej.
 
 142
-00:18:14,721 --> 00:18:26,800
-rodzaj rozróżniającej mądrości, której się uczy
-a także przypomnienie o naturze życia.
+00:17:45,465 --> 00:17:49,687
+Swoim umysłu możesz zobaczyć swój umysł. To dziwna rzecz.
 
 143
-00:18:27,175 --> 00:18:41,760
-rzeczywistości i to jest obowiązek tych dwóch posłańców
-obowiązkiem Samathy i przejrzystości Vipassany jest
+00:17:49,712 --> 00:17:54,948
+Umysł może sam siebie zobaczyć w działaniu.
 
 144
-00:18:41,761 --> 00:18:50,880
-ciągłe przekazywanie dokładnego raportu do
-świadomości ten aspekt nas samych, który
+00:17:54,972 --> 00:18:01,051
+Zatem, to opisuje świadomość, jako zwykłe doświadczenie możliwości dostrzegania.
 
 145
-00:18:50,980 --> 00:19:01,320
-patrzy na świat i dokonuje wyborów lub
-informuje proces decyzyjny o decyzji
+00:18:01,076 --> 00:18:09,697
+Tak jakby była tam tylko neutralność. Aczkolwiek ten król, świadomość, zostaje poinformowany, więc znajduje się w tym jakiś element mądrości.
 
 146
-00:19:01,321 --> 00:19:07,960
-proces podejmowania decyzji jest nazywany czymś innym
-Sankara, ale świadomość jest jednym ze źródeł
+00:18:09,722 --> 00:18:19,138
+Świadomości w tym opisie, w tym porównaniu, w tej przypowieści, ma jakiś rodzaj rozróżniającej mądrości.
 
 147
-00:19:07,961 --> 00:19:14,240
-dla tego jest to bank informacji, za pomocą którego
-decyzje są podejmowane i lepiej, żeby ten bank był
+00:18:19,163 --> 00:18:29,383
+Która się uczy. A także przypomina sobie o naturze życia, o rzeczywistości.
 
 148
-00:19:14,241 --> 00:19:22,640
-dokładny, lepiej mieć dokładne informacje
-dokładną strukturę, ponieważ decyzje są podejmowane
+00:18:29,408 --> 00:18:46,060
+To jest właśnie obowiązek tych dwóch posłańców. Obowiązkiem Samathy i przejrzystości, Vipassany, jest ciągłe przekazywanie dokładnego raportu.
 
 149
-00:19:22,641 --> 00:19:32,200
-będą z tego wynikać, a na praktycznej podstawie
-zobaczycie w waszym życiu, że w miarę jak dojrzewacie i stajecie się
+00:18:46,085 --> 00:18:56,518
+Do świadomości. Do tego aspektu nas samych, który patrzy na świat i dokonuje wyborów.
 
 150
-00:19:32,201 --> 00:19:38,640
-więcej informacji o świecie, rzeczy, które
-kiedyś was ekscytowały i byliście pewni, że tego chcecie.
+00:18:56,543 --> 00:19:00,463
+Albo informuje proces podejmowania decyzji.
 
 151
-00:19:39,365 --> 00:19:47,480
-Po doświadczeniu może się okazać, że rozumiecie
-naturę tego obiektu i że nie jesteście ani
+00:19:00,488 --> 00:19:04,886
+Proces podejmowania decyzji jest nazywany czymś innym, Sankharą.
 
 152
-00:19:47,481 --> 00:19:55,400
-być może odpychany przez niego, ani się go boisz, ani go pragniesz.
-go i myślicie, że przyniesie wam coś w rodzaju wieczności
+00:19:04,911 --> 00:19:13,087
+Jednakże świadomość jest jednym ze źródeł, to bank informacji, za pomocą którego decyzje są podejmowane.
 
 153
-00:19:55,401 --> 00:20:02,040
-szczęście, więc kiedy jesteście dziećmi, wystarczy
-wystarczy kolorowa grzechotka i to wszystko.
+00:19:13,112 --> 00:19:26,811
+I lepiej, żeby ten bank był dokładny, lepiej żeby miał dokładne informacje, dokładną strukturę, ponieważ z tego powstaną jakieś nasze decyzje.
 
 154
-00:20:02,041 --> 00:20:10,000
-niewiarygodnie pożądanym przedmiotem i macie
-nieporozumienie, że jest to również jadalne, więc próbowaliście
+00:19:26,836 --> 00:19:33,618
+Na praktycznym podłożu, zobaczycie w waszym życiu, że w miarę jak dojrzewacie i stajecie się bardziej poinformowaniu o świecie,
 
 155
-00:20:10,001 --> 00:20:17,640
-włożyć go do waszych ust. Jest bardzo ładny i
-wydaje dźwięki i tak dalej, a teraz, gdy was trochę
+00:19:33,643 --> 00:19:39,198
+rzeczy, które kiedyś was ekscytowały i byliście pewni, że tego chcecie,
 
 156
-00:20:17,641 --> 00:20:23,800
-trochę starsi, mieliście nawet dwa lub trzy lata
-i wtedy okazuje się, że to nie jest smaczne.
+00:19:39,223 --> 00:19:46,700
+po doświadczeniu ich, może się okazać, że rozumiecie naturę ich obiektu,
 
 157
-00:20:23,801 --> 00:20:32,240
-to nie jest smaczne i wiecie o tym teraz i wiecie też, że to tylko
-wiesz również, że to tylko bardzo przejściowa mała zabawka
+00:19:46,725 --> 00:19:56,147
+i że nie jesteście ani odpychani przez nie, ani się ich nie boicie, ale też i  nich nie pragniecie, ani nie myślicie, że przyniesie wam coś w rodzaju wiecznego szczęście.
 
 158
-00:20:32,241 --> 00:20:42,160
-a więc macie coś, co widzieliście i jesteście
-nie jesteście już pod urokiem waszej poprzedniej ignorancji
+00:19:56,172 --> 00:20:00,430
+Zatem kiedy jesteście dziećmi wystarczy wam kolorowa grzechotka.
 
 159
-00:20:42,161 --> 00:20:48,240
-waszej poprzedniej naiwności, więc wzrastacie w waszej
-świadomości i mądrości i rozwijacie się
+00:20:00,455 --> 00:20:09,348
+I to jest niewiarygodnie pożądany przedmiot. Posiadacie również to nieporozumienie, że jest to również jadalne.
 
 160
-00:20:48,241 --> 00:20:53,520
-i ten proces duchowej ścieżki nie jest
-niczym więcej niż tym, że po prostu wzrastacie poprzez
+00:20:09,373 --> 00:20:11,974
+Zatem próbowaliście włożyć to również do swoich ust.
 
 161
-00:20:53,521 --> 00:21:00,480
-etapy postrzegania natury świata
-który jest postrzegany poprzez widoki i dźwięki
+00:20:11,999 --> 00:20:16,223
+Jest bardzo ładne i wydaje dźwięki i tak dalej.
 
 162
-00:21:00,481 --> 00:21:11,600
-zapachy, smaki i dotyki oraz poprzez
-procesy umysłowe wewnętrzne procesy umysłowe rzeczy, które
+00:20:16,248 --> 00:20:26,321
+A teraz, gdy stajecie się trochę starsi, może mieliście nawet dwa czy trzy lata, okazuje się, że to nie jest smaczne, i teraz o tym już wiecie.
 
 163
-00:21:11,601 --> 00:21:18,040
-o których myśleliście, że sprawią, że będziecie szczęśliwi.
-mógłbyś po prostu dostać to, dostać ten związek, dostać to
+00:20:26,346 --> 00:20:33,045
+Wiecie również, że to tylko raczej przejściowa mała zabawka.
 
 164
-00:21:18,041 --> 00:21:27,240
-pieniądze, dostać tę pracę, dostać ten samochód, dostać to i tamto.
-i bylibyście po prostu szczęśliwi, a potem się okazuje
+00:20:33,070 --> 00:20:44,306
+Zatem coś dostrzegliście i nie jesteście już pod urokiem waszej poprzedniej ignorancji, waszej poprzzedniej naiwności.
 
 165
-00:21:27,241 --> 00:21:37,960
-nie, to jest również niestabilne i podlega temu, że jest poza
-waszej kontroli i ma swoje minusy.
+00:20:44,331 --> 00:20:48,123
+Więc wzrastacie w waszej świadomości i mądrości i rozwijacie się.
 
 166
-00:21:37,961 --> 00:21:42,840
-i zaczynacie zdawać sobie z tego sprawę i zdobywacie
-doświadczenie, a więc to jest właściwie vipassana.
+00:20:48,148 --> 00:20:57,721
+Ten proces duchowej ścieżki nie jest niczym innym niż właśnie tym, że po prostu wzrastacie poprzez postrzeganie natury rzeczywistości.
 
 167
-00:21:42,841 --> 00:21:50,640
-to rosnąca jasność co do natury rzeczy, które
-rzeczy, o których na początku myśleliście, że gdybyście mogli
+00:20:57,746 --> 00:21:02,979
+Która jest rozumiana poprzez widoki, dźwięki, zapachy, smaki i dotyk.
 
 168
-00:21:50,641 --> 00:21:59,440
-to wtedy byłbyś szczęśliwy również w negatywnym kierunku
-negatywnym kierunku wybuchów złości, więc widzicie
+00:21:03,004 --> 00:21:10,753
+Oraz poprzez procesy umysłowe, wewnętrzne procesy umysłowe.
 
 169
-00:21:59,441 --> 00:22:05,280
-że u dzieci, wiecie, że odlatują z uchwytu
-zwłaszcza straszne dwójki i tak dalej, ale nawet
+00:21:10,778 --> 00:21:15,601
+Rzeczy o których myśleliście, że sprawią, że będziecie szczęśliwi jeśli tylko moglibyście je po prostu dostać...
 
 170
-00:22:05,281 --> 00:22:10,480
-wiecie, kiedy jesteście nastolatkami, możecie odlecieć
-uchwyt, a potem z biegiem czasu, miejmy nadzieję
+00:21:15,626 --> 00:21:23,181
+Dostać ten związek, dostać te pieniądze, dostać tę pracę, dostać ten samochód, dostać to czy tamto.
 
 171
-00:22:10,481 --> 00:22:20,600
-jeśli dojrzejecie, niektórzy ludzie utkną na tych poziomach.
-tych poziomach, a wy już się tak nie denerwujecie.
+00:21:23,206 --> 00:21:27,663
+I będziecie po prostu szczęśliwi. A potem okazuje się, że jednak nie.
 
 172
-00:22:20,601 --> 00:22:26,840
-tymi rzeczami, moderujecie to, ponieważ mieliście
-macie doświadczenie i to jest rozwój
+00:21:27,688 --> 00:21:38,326
+Jest to tak samo niestabilne i podlega temu, że koniec końców, jest to poza waszą kontrolą i ma swoje minusy.
 
 173
-00:22:26,841 --> 00:22:38,560
-samathy i vipassany, a wiele wydarzeń w życiu
-waszym życiu może być przetwarzanych tylko w spokojnym wspominaniu.
+00:21:38,351 --> 00:21:42,765
+Zaczynacie zdawać sobie z tego sprawę i zdobywacie doświadczenie, a więc to jest właściwie Vipassana.
 
 174
-00:22:39,760 --> 00:22:47,720
-że naprawdę, aby zrozumieć sytuację
-waszym życiu byliście w gorącym okresie lub w czasie
+00:21:42,790 --> 00:21:54,983
+To jest rosnąca przejrzystość co do natury rzeczy, o których z początku myśleliście, że gdybyście tylko je mieli, to bylibyście szczęśliwi.
 
 175
-00:22:47,721 --> 00:22:58,040
-natychmiast po tym, jak to jest niejasne
-emocje są silne, ale w spokojnym wspomnieniu byliście
+00:21:55,008 --> 00:22:01,198
+Również w negatywnym kierunku. Wybuchów złości, na przykład widać to u dzieci,
 
 176
-00:22:58,041 --> 00:23:05,520
-rozumiecie, gdzie popełniliście wasze błędy, dlaczego
-dlaczego przesadziliście, zaczynacie widzieć to z perspektywy.
+00:22:01,223 --> 00:22:04,845
+że odlatują z zachwytu, zwłaszcza okropne dwulatki i tak dalej,
 
 177
-00:23:06,370 --> 00:23:16,920
-To też jest wartość Serenity, nie możecie tak naprawdę
-właściwie przetwarzać wspomnień, chyba że w Serenity.
+00:22:04,870 --> 00:22:11,900
+ale nawet wiecie, kiedy jesteście nastolatkami, możecie odlecieć z zachwytu, a potem z biegiem czasu, miejmy nadzieję, dorastacie.
 
 178
-00:23:18,020 --> 00:23:30,920
-Serenity widzieliście to bliżej tego, jak to
-naprawdę jest ze wszystkimi jego aspektami, więc to jest to
+00:22:11,925 --> 00:22:21,813
+Niektórzy ludzie utkną na tych poziomach. Ale wy już się tak nie denerwujecie z powodu tych rzeczy.
 
 179
-00:23:30,921 --> 00:23:39,000
-proces, a właściwy wysiłek to wstępny
-opis całego tego procesu, który się dzieje
+00:22:21,838 --> 00:22:30,338
+Moderujecie to, ponieważ mieliście pewne doświadczenie. To jest właśnie rozwój Samathy i Vipassany.
 
 180
-00:23:39,001 --> 00:23:47,440
-się dzieje i funkcja pomności więc
-które nie są dopuszczone do tego miasta
+00:22:30,363 --> 00:22:39,533
+A wiele wydarzeń z waszego życia może zostać wyłącznie przetworzone tylko w spokojnym i pogodnym ducha wspominaniu.
 
 181
-00:23:47,441 --> 00:23:59,720
-i nie wolno im dawać zniekształconego raportu
-rzeczywistości do świadomości i w skrócie jest to pięć
+00:22:39,558 --> 00:22:44,090
+Że naprawdę, aby zrozumieć sytuację w waszym życiu,
 
 182
-00:23:59,721 --> 00:24:08,120
-przeszkód, tych pięć nie powinno być dopuszczonych do
-więc to jest to, o czym właściwy wysiłek informuje pomność
+00:22:44,114 --> 00:22:49,282
+kiedy byliście w gorącym okresie lub w czasie natychmiastowego działania,
 
 183
-00:24:08,121 --> 00:24:18,840
-oto wasze zadanie tych pięciu nie przejdzie przez ścianę
-jest siedem, które powinny zostać przyjęte
+00:22:49,307 --> 00:22:57,663
+kiedy jest to niejasne, a emocje są silne, ale w spokojnym i pogodnym ducha wspomnieniu,
 
 184
-00:24:18,841 --> 00:24:27,360
-które dają dokładne relacje i to są
-siedem czynników przebudzenia, o których będę mówił
+00:22:57,688 --> 00:23:06,151
+rozumiecie, gdzie popełniliście wasze błędy, gdzie przesadziliście z reakcją, zaczynacie widzieć to z perspektywy.
 
 185
-00:24:27,361 --> 00:24:38,800
-Co należy zrobić z tymi pięcioma przeszkodami?
-Pierwszą z nich jest zapobieganie ich powstawaniu, a więc
+00:23:06,176 --> 00:23:17,745
+To jest też wartość spokoju i pogodności ducha. Nie możecie tak naprawdę właściwie przetworzyć wspomnień, chyba że właśnie w tym stanie.
 
 186
-00:24:38,801 --> 00:24:48,320
-zapobiec ich pojawieniu się, to jest
-najłatwiej powstrzymać kłopoty, zanim się zaczną, co
+00:23:17,770 --> 00:23:29,908
+W tym stanie widzicie to bliżej tego jak to naprawdę jest ze wszystkimi tego aspektami.
 
 187
-00:24:48,321 --> 00:24:55,000
-wiecie, kiedy jest dobry moment, żeby to zrobić?
-cóż, właściwie w każdej chwili, ale bardziej wyczucie, że
+00:23:29,933 --> 00:23:42,830
+A zatem to jest ten proces, a właściwy wysiłek to wstępny opis całego tego procesu, który będzie się dział oraz funkcji uważności.
 
 188
-00:24:55,001 --> 00:25:00,640
-początek dnia to czas, aby poświęcić
-trochę czasu przed wyruszeniem w drogę
+00:23:42,855 --> 00:23:47,851
+Zatem, które są tymi, które nie są dopuszczone do tego miasta,
 
 189
-00:25:00,641 --> 00:25:09,080
-świat bez przeglądu i przygotowania się
-na to, jak chcecie negocjować dzień, jaki on jest
+00:23:47,875 --> 00:23:57,450
+którym nie wolno zdawać zniekształconego raportu o rzeczywistości do świadomości.
 
 190
-00:25:09,081 --> 00:25:18,120
-co nie powinno być wnoszone do waszego doświadczenia
-dzisiaj tylko kilka minut siedzenia, wiecie
+00:23:57,475 --> 00:24:01,820
+W skrócie jest to pięć przeszkód.
 
 191
-00:25:18,121 --> 00:25:25,280
-nawet pięć minut i po prostu powiedzieć okej, no wiecie
-tam będą różnego rodzaju bodźce
+00:24:01,845 --> 00:24:08,235
+Tych pięć nie powinno zostać dopuszczone. To jest to, czym właściwy wysiłek informuje uważność.
 
 192
-00:25:25,281 --> 00:25:33,840
-przychodzące do mnie, będą widoki i
-dźwięki, zapachy, smak, dotyk i pomysły, które wy nazywacie
+00:24:08,260 --> 00:24:15,656
+"Oto twoje zadanie, tych pięciu nie wpuszczasz przez mur".
 
 193
-00:25:33,841 --> 00:25:39,280
-świat, ale tak naprawdę świat jest doświadczany
-tylko na poziomie, wiecie, to tylko widok, to tylko
+00:24:15,680 --> 00:24:20,163
+Istnieje siedem, które powinny zostać przywitane,
 
 194
-00:25:39,281 --> 00:25:46,720
-dźwięk, to zapach, to smak, to dotyk, to idea.
-idea, tak to jest naprawdę doświadczane, to jest wewnątrz
+00:24:20,188 --> 00:24:29,661
+które zdają dokładnąą relację i jest to siedem czynników przebudzenia, o których powiem coś więcej.
 
 195
-00:25:46,721 --> 00:25:56,120
-świat jest doświadczany wewnątrz was i po prostu
-przejrzeć to i powiedzieć teraz, czego nie zamierzam
+00:24:29,686 --> 00:24:38,320
+Co należy zrobić z tymi pięcioma przeszkodami? Pierwszą metodą jest zapobieganie ich powstawaniu.
 
 196
-00:25:56,121 --> 00:26:05,520
-w odpowiedzi na te widoki, dźwięki, zapachy
-smak dotyki i pomysły, cóż, podjąłem ścieżkę i.
+00:24:38,345 --> 00:24:47,790
+Zapobiec ich pojawieniu się, całkowicie. To jest najłatwiejsze, powstrzymać kłopoty, zanim się zaczną.
 
 197
-00:26:06,220 --> 00:26:18,080
-rada i ścieżka jest w porządku, bez gniewu tak
-dzisiaj mogą być pewne prowokacyjne wydarzenia.
+00:24:47,815 --> 00:24:52,736
+Wiecie kiedy jest dobry moment, żeby to zrobić? Cóż, właściwie to w każdej chwili,
 
 198
+00:24:52,761 --> 00:25:01,690
+ale bardziej na wyczucie, może początek dnia to czas, aby poświęcić trochę na to czasu przed wyruszeniem w świat.
+
+199
+00:25:01,715 --> 00:25:08,588
+Bez przeglądu i przygotowania się na to... Co chcecie wynegocjować w dzisiejszym dniu?
+
+200
+00:25:08,613 --> 00:25:15,496
+Czym jest to czego nie chcecie dzisiaj wnieść do waszego doświadczania dnia?
+
+201
+00:25:15,520 --> 00:25:19,754
+Wystarczy tylko kilka minut siedzenia, wiecie, nawet pięć minut,
+
+202
+00:25:19,779 --> 00:25:26,390
+i po prostu powiedzieć, "okej, będą tam różnego rodzaju bodźce dochodzić do mnie,
+
+203
+00:25:26,415 --> 00:25:31,435
+będą widoki i dźwięki, zapachy, smak, dotyk i pomysły",
+
+204
+00:25:31,460 --> 00:25:39,154
+które wy nazywacie światem, ale tak naprawdę świat jest doświadczany tylko na tym poziomie, wiecie, tylko widok,
+
+205
+00:25:39,179 --> 00:25:46,245
+to tylko dźwięk, to zapach, to smak, to dotyk, to idea. Tak to jest naprawdę doświadczane.
+
+206
+00:25:46,270 --> 00:25:50,979
+To jest wewnątrz. Świat jest doświadczany wewnątrz nas.
+
+207
+00:25:51,003 --> 00:25:57,838
+A żeby zrobić przegląd, to powiedzieć, "Czego nie zamierzam robić?"
+
+208
+00:25:57,863 --> 00:26:02,865
+"W odpowiedzi na te widoki, dźwięki, zapachy, smaki, dotyki i pomysły?"
+
+209
+00:26:02,890 --> 00:26:13,811
+"Cóż, podjąłem się tej ścieżki, i radzą na ścieżce aby... ok, brak gniewu."
+
+210
+00:26:13,836 --> 00:26:18,080
+Jest w porządku, bez gniewu tak
+dzisiaj mogą być pewne prowokacyjne wydarzenia.
+
+211
 00:26:19,880 --> 00:26:26,400
 mogą być pewne frustracje, świat nie jest
 pod waszym dowództwem i was nie słucha.
 
-199
+212
 00:26:26,401 --> 00:26:33,080
 i nie jest wam posłuszny, a nawet wasze ciało nie jest
 pod waszym dowództwem, nie słucha was i nie jest wam posłuszne
 
-200
+213
 00:26:33,081 --> 00:26:43,840
 kiedy przedstawia wam coś, co nie jest
 przyjemne, macie pamiętać o tej niechęci.
 
-201
+214
 00:26:44,540 --> 00:26:53,680
 drażliwość gniew nawet nienawiść nie ma zastosowania
 nie jest jednym z zasobów, które mogę zastosować.
 
-202
+215
 00:26:53,681 --> 00:26:59,280
 używać więcej przy okazji, to jest podstawowy i
 naturalny zasób, który widzicie ucieleśniony w zwierzętach.
 
-203
+216
 00:27:00,005 --> 00:27:12,840
 Jest to oczywiście bardzo podstawowa naturalna funkcja
 umysłu, że niechęć i wrogość, ale to rodzaj
 
-204
+217
 00:27:13,015 --> 00:27:18,880
 starego rodzaju rzeczy w mózgu, więc jest to dość osadzone w
 ludzkiej naturze, ale w ludzkiej naturze możemy
 
-205
+218
 00:27:18,881 --> 00:27:27,640
 faktycznie odzwierciedlić i przekroczyć to, możemy znaleźć
 inne sposoby radzenia sobie z niechcianym z
 
-206
+219
 00:27:27,641 --> 00:27:37,680
 bolesnym z frustrującym mamy inne
 zasoby, dzięki którym możemy sobie z tym poradzić i robimy to
 
-207
+220
 00:27:37,681 --> 00:27:45,800
 nie musicie polegać na tym konkretnym trybie
 emocji, gniewu i to jest nasze zadanie, mam na myśli
 
-208
+221
 00:27:45,801 --> 00:27:53,360
 to bardzo zabawna gra, mówię wam, że to wy decydujecie
 determinację, a potem to was łapie
 
-209
+222
 00:27:53,361 --> 00:27:57,560
 wiecie, po prostu opuszczacie waszą gardę na sekundę
 i wracacie do tego, wiecie, że już jesteście
 
-210
+223
 00:27:57,561 --> 00:28:09,640
 drażliwość, ale robiąc ten pomysł zapobiegania
 kierujecie to poza przeszłość, to niesamowite, jeśli
 
-211
+224
 00:28:09,641 --> 00:28:15,440
 po prostu poświęciliście pięć minut i powiedzieliście poczekaj teraz
 po prostu pozwól mi przypomnieć sobie, co to jest tak, dobrze, nie
 
-212
+225
 00:28:15,441 --> 00:28:24,720
 gniew nie gubi się w czymś, czego wy chcecie.
 wiesz, że chcecie, chcecie, chcecie, to jest chciwość nie
 
-213
+226
 00:28:24,721 --> 00:28:30,880
 zagubić się w tym, co jest trudniejsze do zrozumienia
 Właściwie to złość jest czymś, co możecie w pewnym sensie
 
-214
+227
 00:28:30,881 --> 00:28:37,640
 zrozumieć, że to bardzo negatywne doświadczenie
 Chciwość jest trudniejsza do zrozumienia, ale ja
 
-215
+228
 00:28:37,641 --> 00:28:45,680
 Chcę tego i to nie jest złe, że tego chcę.
 wiecie, to jest rzecz i co jest nie tak?
 
-216
+229
 00:28:45,681 --> 00:28:52,760
 z pragnieniem tego, więc macie się zastanowić co jest
 złego w pragnieniu tego, co się dzieje?
 
-217
+230
 00:28:52,761 --> 00:28:59,720
 to znaczy, że moglibyście być lepsi, moglibyście być w
 lepszym stanie, macie się nad tym zastanowić.
 
-218
+231
 00:28:59,721 --> 00:29:09,600
 czasu zrozumieć to pobudzenie
 i lenistwo są również trudne, ponieważ
 
-219
+232
 00:29:09,601 --> 00:29:14,720
 to tak jakby nas ogarnia, nawet nie jesteśmy tego świadomi.
 coś, czego naprawdę wszyscy lubimy być świadomi, po prostu
 
-220
+233
 00:29:14,721 --> 00:29:25,960
 czujemy się niezdolni do relaksu i po prostu nerwowej energii i
 czasami, ale macie to rozpoznać tak samo jak ja
 
-221
+234
 00:29:25,961 --> 00:29:32,040
 zapobiec temu, czy mogę wywołać poczucie spokoju
 z wyprzedzeniem, aby to naturalnie wzrastało.
 
-222
+235
 00:29:32,740 --> 00:29:37,680
 lub po prostu wiele osób po prostu zgłosi
 że jestem po prostu na wiecie taki niespokojny nastrój
 
-223
+236
 00:29:37,681 --> 00:29:46,600
 oni nie mają poczucia, że oni
 mogliby cokolwiek z tym zrobić, więc po prostu
 
-224
+237
 00:29:46,601 --> 00:29:51,880
 uważają to za część tego, kim są i jacy są.
 są, więc sam pomysł, że moglibyście faktycznie
 
-225
+238
 00:29:51,881 --> 00:29:58,320
 odciąć się od tego lub wpłynąć na to w określony sposób
 określony sposób jest już nowatorskim pomysłem i jest
 
-226
+239
 00:29:58,321 --> 00:30:06,640
 już zmienia całą strukturę w przeciwną stronę
 jest ta ociężałość i lenistwo i to znowu ludzie
 
-227
+240
 00:30:06,890 --> 00:30:15,400
 mają tendencję po prostu w to wierzyć i popadać w to, ale my
 musimy zrobić coś przeciwnego, musimy to powstrzymać.
 
-228
+241
 00:30:15,401 --> 00:30:22,680
 przeszłość, a jeśli zacznie się pojawiać, macie
 wzbudzić energię, znaleźć jakieś środki, aby to przezwyciężyć.
 
-229
+242
 00:30:25,780 --> 00:30:42,120
 Ostatnim z nich jest po prostu zagubienie się w wątpliwościach i temu
 często można temu zapobiec dzięki odrobinie spokoju na początek.
 
-230
+243
 00:30:42,121 --> 00:30:48,920
 dość często zwątpienie jest tylko efektem ubocznym
 nadaktywnego umysłu, sam umysł jest problemem.
 
-231
+244
 00:30:48,921 --> 00:31:01,160
 twórca tworzy rzeczy, które nie muszą być tworzone
 i prawdopodobnie nawet nie muszą być rozwiązywane.
 
-232
+245
 00:31:01,210 --> 00:31:07,080
 problemy, które nie muszą być rozwiązywane, ponieważ
 tak naprawdę nie były problemami na początku, więc
 
-233
+246
 00:31:07,081 --> 00:31:17,000
 odrobina spokoju z wyprzedzeniem może często
 zapobiegać powstawaniu problemów
 
-234
+247
 00:31:17,001 --> 00:31:25,280
 które nie muszą być rozwiązane, ale po prostu rozpuszczone
 z powrotem w Serenity, więc są to niektóre z
 
-235
+248
 00:31:25,281 --> 00:31:32,680
 taktyka zapobiegania jest najlepsza i jest to
 pierwsza z czterech właściwych działań prewencyjnych
 
-236
+249
 00:31:32,681 --> 00:31:44,000
 zatrzymanie kłopotów zanim się zaczną, a więc jest to
 coś, co naprawdę zapobiega wielu problemom
 
-237
+250
 00:31:44,001 --> 00:31:50,640
 więc musicie po prostu przeanalizować, jak wiele sposobów
 jest na to wiele sposobów i być może jest ich wiele rodzajów.
 
-238
+251
 00:31:51,590 --> 00:31:57,560
 metod, takich jak ustawianie waszego małego zegarka na rękę.
 aby przypominał wam co dwie godziny, że wszystko w porządku.
 
-239
+252
 00:31:57,660 --> 00:32:05,000
 zapobieganie po prostu zatrzymaj to, zanim się zacznie, to jedna z
 z najbardziej skutecznych ze wszystkich rzeczy, które nie wymagają
 
-240
+253
 00:32:05,001 --> 00:32:09,680
 dużo czasu, to tylko rodzaj przypomnienia, was
 wiecie, że znacie również siebie, że w niektórych
 
-241
+254
 00:32:09,681 --> 00:32:15,680
 sytuacjach jesteście bardzo niecierpliwi i gubicie się
 w pracy i wiecie, że niektórzy ludzie tego nie robią.
 
-242
+255
 00:32:15,681 --> 00:32:21,040
 dość cierpliwi, nie wnoszą wiele niepokoju
 do czegoś i tak dalej, ale musicie wiedzieć
 
-243
+256
 00:32:21,041 --> 00:32:28,040
 co jest waszym wyzwalaczem, jakie sytuacje
 są sytuacje, w których dajecie się ponieść.
 
-244
+257
 00:32:28,340 --> 00:32:37,120
 oni znowu mnie dopadli, jeśli macie, jeśli możecie
 po prostu zastanowić się nad tym z wyprzedzeniem i powiedzieć, że wiecie
 
-245
+258
 00:32:37,121 --> 00:32:46,600
 Kiedy idę na zakupy, daję się ponieść, gadam o sklepach i sprzedawcach.
 o sklepach i sprzedawcach i jestem rodzajem
 
-246
+259
 00:32:46,601 --> 00:32:53,200
 gubię się w irytacji z tego powodu lub
 wręcz przeciwnie, naprawdę się w to wciągam, naprawdę lubię
 
-247
+260
 00:32:53,325 --> 00:33:00,520
 wiecie, mówiłem, że musicie powiedzieć, jaka jest moja konfiguracja?
 konfiguracja, o czym muszę przypomnieć?
 
-248
+261
 00:33:00,521 --> 00:33:08,000
 sobie chwilę, zanim przejdę do tego i
 następnie następnym zadaniem jest próba utrzymania
 
-249
+262
 00:33:08,001 --> 00:33:13,640
 że przez cały proces, jeśli w ogóle możecie to zrobić.
 kiedy już wiecie, że to tylko brak przygotowania.
 
-250
+263
 00:33:15,340 --> 00:33:19,040
 i możecie spróbować, mnisi radzą wam
 każdego ranka, kiedy macie opuścić swoje miłe
 
-251
+264
 00:33:19,041 --> 00:33:25,820
 medytacyjny klasztor i udają się na jałmużnę
 przez lokalną wioskę, z którą macie się zmierzyć każdego dnia
 
-252
+265
 00:33:25,821 --> 00:33:30,640
 życie jest wszelkiego rodzaju rzeczy na wszystkich
 ulice, dźwięki, miejsca i tak dalej w
 
-253
+266
 00:33:30,641 --> 00:33:36,640
 Budda mówi, że wiecie, po prostu spróbujcie przejść przez
 wioskę, nie zwracaj uwagi na awersyjne rzeczy.
 
-254
+267
 00:33:36,641 --> 00:33:45,120
 i atrakcyjne rzeczy, nie przywiązuj się do nich.
 do nich przygotujcie się, kiedy dotrzecie do
 
-255
+268
 00:33:45,121 --> 00:33:54,560
 wioski przygotuj się na powstrzymanie waszych zmysłów powstrzymaj
 nie zgub się w awersji nie zgub się
 
-256
+269
 00:33:54,561 --> 00:34:00,080
 i atrakcyjny po prostu musicie przejść przez
 wioska nie powinna zająć więcej niż 20 minut
 
-257
+270
 00:34:00,081 --> 00:34:08,720
 a potem będziesz na zewnątrz w bardziej nisko sensorycznym
 doświadczenie i będziecie mieć wasz spokój
 
-258
+271
 00:34:08,721 --> 00:34:17,000
 przez to przy okazji, więc nie jest to
 naprawdę wielka ilość mądrości, której potrzeba.
 
-259
+272
 00:34:17,550 --> 00:34:24,640
 Budda jest bardzo zaangażowany w zapobieganie
 objawom, jak również wiecie, kiedy macie
 
-260
+273
 00:34:24,641 --> 00:34:29,320
 chorobę, to nie tylko leczy chorobę, ale
 wiecie, dbać również o objawy.
 
-261
+274
 00:34:31,020 --> 00:34:37,160
 więc on nie mówi oh, jeśli jesteście wystarczająco mądrzy
 możecie spojrzeć na wszystko, możecie poradzić sobie ze wszystkim.
 
-262
+275
 00:34:37,585 --> 00:34:44,960
 on mówi teraz zasadniczo nie testuj siebie
 z tym powściągnij waszym zmysłem
 
-263
+276
 00:34:44,961 --> 00:34:53,640
 doświadczenie awersji i atrakcyjności
 Skupcie się na chodzeniu, nie patrzcie w dół, nie zwracajcie uwagi.
 
-264
+277
 00:34:53,641 --> 00:34:59,920
 zwracaj uwagę na dźwięki po prostu idź przez was
 możesz praktykować to w zwykłym życiu po prostu idź do
 
-265
+278
 00:34:59,921 --> 00:35:06,080
 centrum handlowego i zobaczyć, czy uda wam się przejść bez
 nie będąc przez to poplamionym, doświadczenie nie jest ani awersyjne, ani
 
-266
+279
 00:35:06,081 --> 00:35:15,600
 atrakcyjne po prostu zobaczcie, czy potraficie przez nie przejść
 z opanowaniem, bez skupiania się i wyodrębniania
 
-267
+280
 00:35:15,601 --> 00:35:24,320
 z rzeczy, które są wokół was
 albo znak wady, brzydoty lub
 
-268
+281
 00:35:24,321 --> 00:35:30,800
 znak piękna po prostu przejdź przez to i zobacz
 jak się czujecie, kiedy wyjdziecie po drugiej stronie.
 
-269
+282
 00:35:30,801 --> 00:35:38,120
 macie właśnie doświadczenie bycia Sokratesem
 to właśnie powiedział Sokrates, który często chodził na zakupy
 
-270
+283
 00:35:38,121 --> 00:35:46,560
 żeby zobaczyć wszystkie rzeczy, których nie potrzebował.
 pogodny, więc nie szedł tam, żeby zobaczyć rzeczy
 
-271
+284
 00:35:46,561 --> 00:35:52,200
 które mu się podobały lub których pragnął.
 tam, żeby zobaczyć, że może przez to przejść i poczuć
 
-272
+285
 00:35:52,450 --> 00:36:00,120
 doskonale zadowolony na początku, w środku
 i na końcu jego zadowolenie było tym, czego potrzebował, a nie
 
-273
+286
 00:36:00,121 --> 00:36:07,560
 tych rzeczy, więc jest to rodzaj ćwiczenia, które was
 można również wykonywać w trakcie zwykłego życia, mnisi mają
 
-274
+287
 00:36:07,561 --> 00:36:16,440
 chodzić po miastach i miasteczkach itp. i
 macie takie idee, które przechodzą przez to z
 
-275
+288
 00:36:16,441 --> 00:36:25,920
 wyczuciem powściągliwości bez wyciągania negatywów
 i pięknych, a wy pozostaniecie
 
-276
+289
 00:36:25,921 --> 00:36:31,880
 niezakłócony, pozostaniesz zadowolony, wyjdziesz
 więc jest to część zapobiegania.
 
-277
+290
 00:36:32,280 --> 00:36:42,841
 Struktura tego pierwszego właściwego wysiłku, więc zostawię ten
 początek właściwego wysiłku dla was dzisiejszej nocy.
 
-278
+291
 00:36:43,840 --> 00:36:51,440
 [BLANK_AUDIO].
 
