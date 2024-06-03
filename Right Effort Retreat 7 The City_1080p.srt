@@ -84,7 +84,7 @@ Jest w pewnym stopniu sługą, który niesie instrukcje właściwego wysiłku.
 
 22
 00:02:17,079 --> 00:02:22,101
-Właściwa uważność jest bardzo ograniczonym rodzajem uważności.
+Właściwa pomność jest bardzo ograniczonym rodzajem uważności.
 
 23
 00:02:22,126 --> 00:02:31,225
@@ -160,7 +160,7 @@ Czasami sutty są pełne porównań, metafor, analogii i przypowieści.
 
 41
 00:05:06,017 --> 00:05:09,888
-A czasami Budda nie wyjaśnia tego, co się dzieje.
+A czasami Buddha nie wyjaśnia tego, co się dzieje.
 
 42
 00:05:09,913 --> 00:05:19,515
@@ -172,7 +172,7 @@ Jest wiele wyrafinowanego języka i wymyślnych historii, aby przekazać pewne r
 
 44
 00:05:27,856 --> 00:05:35,985
-Dość często, jeśli jeśli publiczność jest dosłowna, bardzo dosłowna, to dosłownie przegapia cały sens ćwiczenia.
+Dość często, jeśli publiczność jest dosłowna, bardzo dosłowna, to dosłownie przegapia cały sens ćwiczenia.
 
 45
 00:05:36,010 --> 00:05:45,100
@@ -180,11 +180,11 @@ Język Buddhy jest często nazwany, również przez słynnego mnich o imieniu Aj
 
 46
 00:05:45,125 --> 00:05:50,408
-Sutty i język Buddy muszą być rozumiane jako szczególny język.
+Sutty i język Buddhy muszą być rozumiane jako szczególny język.
 
 47
 00:05:50,433 --> 00:05:59,829
-Buddha często o tym mówił. "W tej doktrynie i tym rozdziale takie jest znaczenie tegoż słowa".
+Buddha często o tym mówił. "W tej doktrynie i tym rozdziale takie jest znaczenie tego słowa".
 
 48
 00:05:59,854 --> 00:06:14,060
@@ -332,7 +332,7 @@ Z kolei Vipassana oznacza przejrzystą akceptację.
 
 84
 00:11:02,731 --> 00:11:10,773
-Z kojącym skupioniem wyraźnie widzieć prawdę. Jaką prawdę?
+Z kojącym skupioniem widzieć prawdę, wyraźnie. Jaką prawdę?
 
 85
 00:11:10,798 --> 00:11:20,811
@@ -360,7 +360,7 @@ Na ten moment musicie zapomnieć o współczesnych wyobrażeniach o tym, jak opi
 
 91
 00:11:47,673 --> 00:11:51,168
-Budda opisuje je jako składające się z czterech elementów.
+Buddha opisuje je jako składające się z czterech elementów.
 
 92
 00:11:51,192 --> 00:11:58,213
@@ -380,7 +380,7 @@ Nie powinny być one uważane za jakiś rodzaj ludowej koncepcji dotyczącej zł
 
 96
 00:12:13,599 --> 00:12:23,515
-W rzeczywistości w ten sposób doświadczamy świat. To dość oczywiste, że są te cztery elementy. Nawet dla dziecka.
+W rzeczywistości w ten sposób doświadczamy świata. To dość oczywiste, że są te cztery elementy. Nawet dla dziecka.
 
 97
 00:12:23,540 --> 00:12:29,406
@@ -396,23 +396,23 @@ A potem jest też powietrze, a potem jest ciepło, jako element ciepła, i to s�
 
 100
 00:12:46,035 --> 00:12:49,936
-To jest to jak bezpośrednio doświadczacie świata.
+To jest to jak bezpośrednio doświadczamy świata.
 
 101
 00:12:49,960 --> 00:12:56,423
-W rzeczywistości nie doświadczacie atomów czy elektronów ani niczego podobnego.
+W rzeczywistości nie doświadczamy atomów czy elektronów ani niczego podobnego.
 
 102
 00:12:56,448 --> 00:13:02,615
-Nie doświadczacie wszelkiego rodzaju rzeczy, które mamy, które rozumiemy, że istnieją i tak dalej,
+Nie doświadczamy wszelkiego rodzaju rzeczy, które mamy, które rozumiemy, że istnieją i tak dalej,
 
 103
 00:13:02,640 --> 00:13:06,439
-ale to nie jest sposób, w jaki wy doświadczacie świata.
+ale to nie jest sposób, w jaki doświadczamy świata.
 
 104
 00:13:06,464 --> 00:13:15,789
-To jak doświadczacie świata jest waszym pierwotnym emocjonalnym uwarunkowaniem, które przekładacie na kontakt z otoczeniem.
+To jak doświadczacie świata jest waszym pierwotnym emocjonalnym uwarunkowaniem, które przekładacie na to jak wygląda świat z waszej perspektywy.
 
 105
 00:13:15,814 --> 00:13:22,656
@@ -420,7 +420,7 @@ A w waszym ciele, to dość oczywiste, w którym się znajdujemy... no może nie
 
 106
 00:13:22,681 --> 00:13:31,428
-Cóż, dostrzegamy, że przyczyną problemów ekologicznych jest to, że ludzie postrzegają siebie jako innych niż otaczająy ich świat.
+Cóż, dostrzegamy, że przyczyną problemów ekologicznych jest to, że ludzie postrzegają siebie jako oddzielnych niż otaczający ich świat.
 
 107
 00:13:31,453 --> 00:13:34,015
@@ -456,7 +456,7 @@ Kolejnym jest element ognia, który internalizujemy poprzez słońce czy różne
 
 115
 00:14:22,161 --> 00:14:34,738
-Również promieniujemy. Stale promieniujemy. Ludzie są bardzo poinformowani, że jeśli tego elementu ciepła nie ma, to jesteście martwi.
+Również promieniujemy. Stale promieniujemy. Ludzie są bardzo poinformowani o tym, że jeśli tego elementu ciepła nie ma, to jesteśmy martwi.
 
 116
 00:14:34,763 --> 00:14:39,368
@@ -500,7 +500,7 @@ Powinienem powiedzieć, że Buddyzm właściwie ma bardzo wyrafinowany rodzaj fi
 
 126
 00:15:39,873 --> 00:15:49,004
-Zwykle znajdziemy go w tym co co nazywa się Abhidharma. Próbują tam, tak jak robili to Grecy i co robi współczesna nauka.
+Zwykle znajdziemy go w tym co nazywa się Abhidharma. Próbują tam, tak jak robili to Grecy i co robi współczesna nauka.
 
 127
 00:15:49,029 --> 00:15:53,960
@@ -516,7 +516,7 @@ Dzielą ciało i umysł aż do jego najmniejszych jednostek w wymiarze fizycznym
 
 130
 00:16:07,054 --> 00:16:12,583
-Nazwalibyśmy to, to jak przypuszczam, zgodnie ze współczesną nauką, redukcjonizmem.
+Nazwalibyśmy to, jak przypuszczam, zgodnie ze współczesną nauką, redukcjonizmem.
 
 131
 00:16:12,608 --> 00:16:18,723
@@ -524,7 +524,7 @@ Oni też się tam tym zajęli. Jednakże to jest szczególny rodzaj analizy.
 
 132
 00:16:18,748 --> 00:16:29,063
-Dla osoby, która jest w pewnym sensie wyrafinowana, intelektualna i skłonna do czegoś takiego to faktycznie może to być temat do medytacji.
+Dla osoby, która jest w pewnym sensie wyrafinowana, intelektualna i skłonna do czegoś takiego to faktycznie może to być tematem do kontemplacji.
 
 133
 00:16:29,088 --> 00:16:35,120
@@ -552,11 +552,11 @@ Niezadowalające, a nie, zadowalające. Bez substancji. Bez istotnej tożsamośc
 
 139
 00:17:25,123 --> 00:17:31,248
-I to jest dokładny raport, z ich misji.
+I to jest dokładny raport. Z ich misji.
 
 140
 00:17:31,273 --> 00:17:39,141
-Zatem oznacza to, że świadomość...  Świadomość często jest opisywana w buddyzmie. Świadomość czego?
+Zatem oznacza to, że świadomość...  Świadomość często jest opisywana w Buddyzmie. Świadomość jest... Świadomość czego?
 
 141
 00:17:39,166 --> 00:17:45,441
@@ -564,15 +564,15 @@ Wzroku, dźwięku, zapachu, smaku, dotyku i aktywności mentalnej.
 
 142
 00:17:45,465 --> 00:17:49,687
-Swoim umysłu możesz zobaczyć swój umysł. To dziwna rzecz.
+Swoim umysłem możesz zobaczyć swój umysł. To dziwna rzecz.
 
 143
 00:17:49,712 --> 00:17:54,948
-Umysł może sam siebie zobaczyć w działaniu.
+Umysł może sam siebie zobaczyć, w działaniu.
 
 144
 00:17:54,972 --> 00:18:01,051
-Zatem, to opisuje świadomość, jako zwykłe doświadczenie możliwości dostrzegania.
+Zatem, to opisuje świadomość, jako zwykłe doświadczenie możliwości postrzegania.
 
 145
 00:18:01,076 --> 00:18:09,697
@@ -580,7 +580,7 @@ Tak jakby była tam tylko neutralność. Aczkolwiek ten król, świadomość, zo
 
 146
 00:18:09,722 --> 00:18:19,138
-Świadomości w tym opisie, w tym porównaniu, w tej przypowieści, ma jakiś rodzaj rozróżniającej mądrości.
+Świadomość w tym opisie, w tym porównaniu, w tej przypowieści, ma jakiś rodzaj rozróżniającej mądrości.
 
 147
 00:18:19,163 --> 00:18:29,383
@@ -612,7 +612,7 @@ I lepiej, żeby ten bank był dokładny, lepiej żeby miał dokładne informacje
 
 154
 00:19:26,836 --> 00:19:33,618
-Na praktycznym podłożu, zobaczycie w waszym życiu, że w miarę jak dojrzewacie i stajecie się bardziej poinformowaniu o świecie,
+Na praktycznym podłożu, zobaczycie w waszym życiu, że w miarę jak dojrzewacie i stajecie się bardziej poinformowani o świecie,
 
 155
 00:19:33,643 --> 00:19:39,198
@@ -624,7 +624,7 @@ po doświadczeniu ich, może się okazać, że rozumiecie naturę ich obiektu,
 
 157
 00:19:46,725 --> 00:19:56,147
-i że nie jesteście ani odpychani przez nie, ani się ich nie boicie, ale też i  nich nie pragniecie, ani nie myślicie, że przyniesie wam coś w rodzaju wiecznego szczęście.
+i że nie jesteście ani odpychani przez nie, ani się ich nie boicie, ale też i  ich nie pragniecie, ani nie myślicie, że przyniosą wam coś w rodzaju wiecznego szczęścia.
 
 158
 00:19:56,172 --> 00:20:00,430
@@ -772,15 +772,15 @@ Istnieje siedem, które powinny zostać przywitane,
 
 194
 00:24:20,188 --> 00:24:29,661
-które zdają dokładnąą relację i jest to siedem czynników przebudzenia, o których powiem coś więcej.
+które zdają dokładną relację i jest to siedem czynników przebudzenia, o których powiem coś więcej.
 
 195
 00:24:29,686 --> 00:24:38,320
-Co należy zrobić z tymi pięcioma przeszkodami? Pierwszą metodą jest zapobieganie ich powstawaniu.
+Co należy zrobić z tymi pięcioma przeszkodami? Pierwszą metodą jest zapobiegnięcie powstaniu ich.
 
 196
 00:24:38,345 --> 00:24:47,790
-Zapobiec ich pojawieniu się, całkowicie. To jest najłatwiejsze, powstrzymać kłopoty, zanim się zaczną.
+Zapobiec ich dopuszczeniu do siebie, całkowicie. To jest najprostsze, powstrzymać kłopoty, zanim się zaczną.
 
 197
 00:24:47,815 --> 00:24:52,736
@@ -792,11 +792,11 @@ ale bardziej na wyczucie, może początek dnia to czas, aby poświęcić trochę
 
 199
 00:25:01,715 --> 00:25:08,588
-Bez przeglądu i przygotowania się na to... Co chcecie wynegocjować w dzisiejszym dniu?
+Bez przeglądu i przygotowania się na to jak chcecie wynegocjować dzisiejszy dzień.
 
 200
 00:25:08,613 --> 00:25:15,496
-Czym jest to czego nie chcecie dzisiaj wnieść do waszego doświadczania dnia?
+Czym jest to czego nie chcecie dzisiaj wnieść do swojego doświadczenia?
 
 201
 00:25:15,520 --> 00:25:19,754
@@ -804,19 +804,19 @@ Wystarczy tylko kilka minut siedzenia, wiecie, nawet pięć minut,
 
 202
 00:25:19,779 --> 00:25:26,390
-i po prostu powiedzieć, "okej, będą tam różnego rodzaju bodźce dochodzić do mnie,
+i po prostu powiedzieć, "Okej, będą tam różnego rodzaju bodźce dochodzić do mnie,
 
 203
 00:25:26,415 --> 00:25:31,435
-będą widoki i dźwięki, zapachy, smak, dotyk i pomysły",
+będą widoki i dźwięki, zapachy, smaki, dotyki i pomysły",
 
 204
-00:25:31,460 --> 00:25:39,154
-które wy nazywacie światem, ale tak naprawdę świat jest doświadczany tylko na tym poziomie, wiecie, tylko widok,
+00:25:31,460 --> 00:25:37,981
+które wy nazywacie światem, ale tak naprawdę świat jest doświadczany tylko na tym poziomie, wiecie,
 
 205
-00:25:39,179 --> 00:25:46,245
-to tylko dźwięk, to zapach, to smak, to dotyk, to idea. Tak to jest naprawdę doświadczane.
+00:25:38,006 --> 00:25:46,245
+to tylko widok, to tylko dźwięk, to zapach, to smak, to dotyk, to idea. Tak to jest naprawdę doświadczane.
 
 206
 00:25:46,270 --> 00:25:50,979
@@ -848,15 +848,15 @@ Nie jest wam posłuszny, a nawet wasze ciało nie jest pod waszym dowództwem, n
 
 213
 00:26:34,318 --> 00:26:48,893
-Kiedy przedstawia wam coś, co nie jest przyjemne, macie pamiętać o tym, że niechęć, drażliwość, gniew, nawet nienawiść.
+Kiedy świat przedstawia wam coś, co nie jest przyjemne, macie pamiętać o tym, że niechęć, drażliwość, gniew, nawet nienawiść,
 
 214
 00:26:48,918 --> 00:26:54,580
-Nie mają już zastosowania. Są jednym z zasobów, których już nie mogę używać.
+nie mają już zastosowania. Są jednym z tych zasobów, których już nie możecie używać.
 
 215
 00:26:54,605 --> 00:26:59,980
-Przy okazji, to są podstawowe i  naturalne zasoby, których ucieleśnienie widać w zwierzętach.
+Przy okazji, to są podstawowe i naturalne zasoby, których ucieleśnieniem są zwierzęta.
 
 216
 00:27:00,005 --> 00:27:12,036
@@ -868,7 +868,7 @@ ale jest to pewien rodzaj starej części mózgu. Dlatego jest to dosyć osadzon
 
 218
 00:27:17,545 --> 00:27:21,254
-Lecz w ludzkiej naturze, tak właściwie, to możemy rozważać i to przekroczyć.
+Lecz w ludzkiej naturze, tak właściwie, to możemy to rozważać i to przekroczyć.
 
 219
 00:27:21,279 --> 00:27:30,708
@@ -880,7 +880,7 @@ Mamy inne zasoby, dzięki którym możemy sobie z tym poradzić.
 
 221
 00:27:37,123 --> 00:27:44,508
-Nie musicie polegać na tym konkretnym trybie emocji, gniewie.
+Nie musicie polegać na tym konkretnym trybie emocji, na przykład gniewie.
 
 222
 00:27:44,533 --> 00:27:53,271
@@ -892,11 +892,11 @@ Wiecie, po prostu opuścicie na chwilę gardę, na sekundę i już wrócicie do 
 
 224
 00:28:02,161 --> 00:28:09,544
-Jednkaże robiąc tą koncepcję zapobieganie, odsuwacie to do przeszłości. To jest niesamowite.
+Jednkaże robiąc tą koncepcję zapobiegania, odsuwacie to w przeszłości. To jest niesamowite.
 
 225
 00:28:09,569 --> 00:28:17,394
-Jeśli tylko byście poświęciliście te pięć minut i powiedzieliście do siebie "Poczekaj. Pozwól mi sobie przypomnieć. Czym to jest? A, ok, brak gniewu"
+Jeśli byście tylko poświęcili te pięć minut i powiedzieli do siebie "Poczekaj. Pozwól mi sobie przypomnieć. Czym to jest? A, ok, brak gniewu"
 
 226
 00:28:17,419 --> 00:28:24,553
@@ -912,7 +912,7 @@ Złość jest czymś, co możecie w pewnym sensie zrozumieć, że to bardzo nega
 
 229
 00:28:37,511 --> 00:28:47,450
-"Ale ja chcę tego i to nie jest złe, że tego chcę", wiecie, "to tylko rzecz, co złego w tym, że tego chcę?"
+"Ale ja chcę tego i to nie jest złe, że tego chcę", wiecie, "To tylko rzecz, co złego w tym, że tego chcę?"
 
 230
 00:28:47,475 --> 00:28:50,985
@@ -988,7 +988,7 @@ Problemy, które nie muszą być rozwiązywane, ponieważ tak naprawdę nie był
 
 248
 00:31:06,885 --> 00:31:16,568
-Zatem odrobina spokoju z wyprzedzeniem, może często zapobiegać powstaniu problemów.
+Zatem odrobina spokoju z wyprzedzeniem, może często zapobiec powstaniu problemów.
 
 249
 00:31:16,593 --> 00:31:24,456
@@ -1012,7 +1012,7 @@ Musicie po prostu przeanalizować jak wiele jest sposobów aby to zrobić.
 
 254
 00:31:49,588 --> 00:31:58,951
-Jest wiele metod takich jak ustawianie waszego małego zegarka na rękę aby przypominał wam co dwie godziny o zapobieganiu.
+Jest wiele metod takich jak ustawianie waszego małego zegarka na ręce aby przypominał wam co dwie godziny o zapobieganiu.
 
 255
 00:31:58,976 --> 00:32:01,876
@@ -1024,7 +1024,7 @@ Ze wszystkich metod to jedna z najbardziej skutecznych. Nie wymaga dużo czasu, 
 
 257
 00:32:07,623 --> 00:32:14,585
-Wiecie, również siebie znacie, że w niektórych sytuacjach jesteście bardzo niecierpliwi i gubicie się w pracy.
+Wiecie, również siebie znacie, że w niektórych sytuacjach jesteście bardzo niecierpliwi i gubicie się podczas wykonywania zadania.
 
 258
 00:32:14,610 --> 00:32:15,581
@@ -1044,7 +1044,7 @@ Jeśli możecie się po prostu zastanowić nad tym z wyprzedzeniem, dla przykła
 
 262
 00:32:36,234 --> 00:32:50,016
-powiedzcie sobie, że kiedy idę na zakupy, daję się ponieść. Niepotrzebnie gadam o sklepach, sprzedawcach, i gubi mnie irytacja.
+powiedzcie sobie, że "Kiedy idę na zakupy, daję się ponieść. Niepotrzebnie gadam o sklepach, sprzedawcach, i gubi mnie irytacja."
 
 263
 00:32:50,041 --> 00:32:55,108
@@ -1068,7 +1068,7 @@ Możecie to sprawdzić. Mnichom radzi się, aby robili to każdego ranka, kiedy 
 
 268
 00:33:20,358 --> 00:33:26,308
- i udać się na jałmużnę przez lokalną wioskę, w której muszą się zmierzyć się z codziennością życia.
+ i udać się na jałmużnę przez lokalną wioskę, w której muszą się zmierzyć  z codziennością życia.
 
 269
 00:33:26,333 --> 00:33:30,447
@@ -1076,23 +1076,23 @@ Są tam wszelkiego rodzaju rzeczy, na ulicach, dźwięki, widoki i tak dalej.
 
 270
 00:33:30,472 --> 00:33:38,652
-Budda mówi, "Po prostu spróbujcie przejść przez wioskę. Nie zwracajcie uwagi na awersyjne rzeczy i atrakcyjne rzeczy.
+Buddha mówi, "Po prostu spróbujcie przejść przez wioskę. Nie zwracajcie uwagi na awersyjne rzeczy i atrakcyjne rzeczy."
 
 271
 00:33:38,686 --> 00:33:50,890
-Nie przywiązujcie się do nich. Przygotujcie się, kiedy dotrzecie do wioski, przygotujcie się na powstrzymanie waszych zmysłów.
+"Nie przywiązujcie się do nich. Przygotujcie się, kiedy dotrzecie do wioski, przygotujcie się na powstrzymywanie waszych zmysłów."
 
 272
 00:33:50,915 --> 00:33:56,822
-Nie zagubcie się w rzeczach awersyjnych, nie zagubcie się w rzeczach atrakcyjnych.
+"Nie zgubcie się w rzeczach awersyjnych, nie zgubcie się w rzeczach atrakcyjnych."
 
 273
 00:33:56,847 --> 00:34:01,568
-Musicie tylko przejść przez wioskę. Nie powinno zająć to więcej niż 20 minut.
+"Musicie tylko przejść przez wioskę. Nie powinno zająć to więcej niż 20 minut."
 
 274
 00:34:01,593 --> 00:34:11,509
-A potem wyjdziecie na dłużej, do bardzo nisko sensorycznego doświadczenia, a w nim spotkacie swój spokój."
+"A potem przejdziecie na dłużej do bardzo nisko sensorycznego doświadczenia, a w nim spotkacie swój spokój."
 
 275
 00:34:11,534 --> 00:34:17,549
@@ -1100,7 +1100,7 @@ Przy okazji, tak na prawdę nie potrzeba do tego wielkiej ilości mądrości.
 
 276
 00:34:17,574 --> 00:34:23,866
-Budda jest bardzo zaangażowany również w zapobieganie objawom.
+Buddha jest bardzo zaangażowany również w zapobieganiu objawom.
 
 277
 00:34:23,891 --> 00:34:31,028
@@ -1108,15 +1108,15 @@ Kiedy macie chorobę, to nie chodzi tylko o wyleczenie objawów, ale również p
 
 278
 00:34:31,053 --> 00:34:37,560
-Więc on nie mówi, oh, jeśli jesteście wystarczająco mądrzy możecie spojrzeć na wszystko, możecie poradzić sobie ze wszystkim.
+Więc on nie mówi "Oh, jeśli jesteście wystarczająco mądrzy możecie spojrzeć na wszystko, możecie poradzić sobie ze wszystkim."
 
 279
 00:34:37,585 --> 00:34:49,771
-On mówi "Zasadniczo nie testujcie siebie z tym. Powściągnijcie wasze zmysły doświadczające awersji i aktracyjności.
+On mówi "Zasadniczo nie testujcie siebie z tym. Powściągnijcie wasze zmysły doświadczające awersji i aktracyjności."
 
 280
 00:34:49,796 --> 00:34:56,668
-Skupcie się na chodzeniu, patrzcie w dół, nie zwracajcie uwagi na dźwięki, po prostu idźcie przed siebie."
+"Skupcie się na chodzeniu, patrzcie w dół, nie zwracajcie uwagi na dźwięki, po prostu idźcie przed siebie."
 
 281
 00:34:56,693 --> 00:34:58,953
@@ -1176,7 +1176,7 @@ Mnisi muszą chodzić po miastach i miasteczkach itp.
 
 295
 00:36:11,059 --> 00:36:17,828
-Taka jest idea. Przejdź przez to powściągliwością sensoryczną.
+Taka jest idea. Przejść przez nie z sensoryczną powściągliwością.
 
 296
 00:36:17,853 --> 00:36:25,001
@@ -1188,9 +1188,9 @@ Pozostaniecie niezakłóceni, pozostaniecie zadowoleni, wyjdziecie z tego spokoj
 
 298
 00:36:30,009 --> 00:36:36,118
-To jest część zapobiegania, struktura pierwszego właściwego wysiłku.
+Zatem to jest ta część zapobiegania, ta struktura pierwszego właściwego wysiłku.
 
 299
-00:36:36,142 --> 00:36:43,740
+00:36:36,142 --> 00:36:41,473
 Zostawię ten początek właściwego wysiłku dla was na dzisiejszą noc.
 
